@@ -1,0 +1,104 @@
+{
+  "foodList": [
+    {
+      "id": "RE001",
+      "recipeName": "Spinach Frittata",
+      "recipeURL": "https://www.thekitchn.com/spinach-frittata-recipe-23173248"
+    },
+    {
+      "id": "RE002",
+      "recipeName": "Blueberry Scones",
+      "recipeURL": "https://www.thekitchn.com/blueberry-scones-recipe-23169461"
+    },
+    {
+      "id": "RE003",
+      "recipeName": "Tamago Kake Gohan",
+      "recipeURL": "https://www.thekitchn.com/tamago-kake-gohan-recipe-23157732"
+    },
+    {
+      "id": "RE004",
+      "recipeName": "Two-Bite Doughnut",
+      "recipeURL": "https://www.thekitchn.com/andagi-recipe-23158708"
+    },
+    {
+      "id": "RE005",
+      "recipeName": "Biscuit Breakfast Sandwich",
+      "recipeURL": "https://www.thekitchn.com/biscuit-breakfast-sandwich-recipe-23159058"
+    },
+    {
+      "id": "RE006",
+      "recipeName": "Miso Oat Bowls with Charred Scallions",
+      "recipeURL": "https://www.thekitchn.com/savory-miso-oat-bowls-charred-scallions-23156943"
+    },
+    {
+      "id": "RE007",
+      "recipeName": "Giant Lemon Roll",
+      "recipeURL": "https://www.thekitchn.com/giant-lemon-roll-recipe-23158671"
+    },
+    {
+      "id": "RE008",
+      "recipeName": "Blueberry-Almond Bubble Bread",
+      "recipeURL": "https://www.thekitchn.com/blueberry-almond-bubble-bread-recipe-23158675"
+    },
+    {
+      "id": "RE009",
+      "recipeName": "French Fry Omelet",
+      "recipeURL": "https://www.thekitchn.com/chips-mayai-recipe-23158689"
+    },
+    {
+      "id": "RE010",
+      "recipeName": "Hollandaise Sauce",
+      "recipeURL": "https://www.thekitchn.com/how-to-make-hollandaise-sauce-in-a-blender-228223"  
+    },
+    {
+      "id": "RE011",
+      "recipeName": "Cinnamon Roll Pound Cake",
+      "recipeURL": "https://www.thekitchn.com/cinnamon-roll-pound-cake-recipe-23158676"
+    },
+    {
+      "id": "RE012",
+      "recipeName": "Chorizo and Potato Breakfast Empanadas",
+      "recipeURL": "https://www.thekitchn.com/chorizo-potato-breakfast-empanadas-recipe-23158674"
+    },
+    {
+      "id": "RE013",
+      "recipeName": "Cheung Fun",
+      "recipeURL": "https://www.thekitchn.com/cheung-fun-recipe-23158677"
+    },
+    {
+      "id": "RE014",
+      "recipeName": "Asparagus Quiche",
+      "recipeURL": "https://www.thekitchn.com/asparagus-quiche-recipe-23147809"
+    },
+    {
+      "id": "RE015",
+      "recipeName": "Skillet Pancake",
+      "recipeURL": "https://www.thekitchn.com/skillet-pancake-recipe-23136133"
+    },
+    {
+      "id": "RE016",
+      "recipeName": "Crispy Fried Eggs with Yogurt, Greens, and Smoked Herb Butter",
+      "recipeURL": "https://www.thekitchn.com/crispy-fried-eggs-yogurt-greens-smoked-herb-butter-recipe-23116487"
+    },
+    {
+      "id": "RE017",
+      "recipeName": "Sticky Buns",
+      "recipeURL": "https://www.thekitchn.com/easy-sticky-buns-recipe-23130418"
+    },
+    {
+      "id": "RE018",
+      "recipeName": "Char Siu Bao",
+      "recipeURL": "https://www.thekitchn.com/char-siu-bao-recipe-23120416"
+    },
+    {
+      "id": "RE019",
+      "recipeName": "Banana Bread",
+      "recipeURL": "https://www.thekitchn.com/how-to-make-banana-bread-the-simplest-easiest-recipe-139900"
+    },
+    {
+      "id": "RE020",
+      "recipeName": "Hot Chocolate",
+      "recipeURL": "https://www.thekitchn.com/how-to-make-hot-chocolate-238399"
+    }
+  ] 
+}
